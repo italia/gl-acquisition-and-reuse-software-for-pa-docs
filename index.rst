@@ -7,7 +7,7 @@ administrations**
 
 **Final release**
 
-   **Agency for Digital Italy**
+**Agency for Digital Italy**
 
 **27 July 2018**
 
@@ -880,25 +880,27 @@ for in Article 68 of the CAD.
 
 |image1|
 
-======================================================================
-===========================================================
-**MACRO FASE 1**                                                       **MACRO-PHASE 1**
-                                                                      
-Individuazione delle esigenze                                          Identification of requirements
-======================================================================
-===========================================================
-**MACRO FASE 2**                                                       **MACRO-PHASE 2**
-                                                                      
-Analisi delle soluzioni a riuso delle PA e delle soluzioni open source Analysis of reusable PA solutions and open source solutions
-                                                                      
-[lettera b), c) dell’art. 68 comma 1]                                  [letters (b) and (c) of Article 68(1)]
-**MACRO FASE 3**                                                       **MACRO-PHASE 3**
-                                                                      
-Analisi delle altre soluzioni                                          Analysis of other solutions
-                                                                      
-[lettera a), e), f) dell’art. 68 comma 1]                              [letters (a), (e) and (f) of Article 68(1)]
-======================================================================
-===========================================================
++-----------------------------------+-----------------------------------+
+| **MACRO FASE 1**                  | **MACRO-PHASE 1**                 |
+|                                   |                                   |
+| Individuazione delle esigenze     | Identification of requirements    |
++===================================+===================================+
+| **MACRO FASE 2**                  | **MACRO-PHASE 2**                 |
+|                                   |                                   |
+| Analisi delle soluzioni a riuso   | Analysis of reusable PA solutions |
+| delle PA e delle soluzioni open   | and open source solutions         |
+| source                            |                                   |
+|                                   | [letters (b) and (c) of           |
+| [lettera b), c) dell’art. 68      | Article 68(1)]                    |
+| comma 1]                          |                                   |
++-----------------------------------+-----------------------------------+
+| **MACRO FASE 3**                  | **MACRO-PHASE 3**                 |
+|                                   |                                   |
+| Analisi delle altre soluzioni     | Analysis of other solutions       |
+|                                   |                                   |
+| [lettera a), e), f) dell’art. 68  | [letters (a), (e) and (f) of      |
+| comma 1]                          | Article 68(1)]                    |
++-----------------------------------+-----------------------------------+
 
 The macro-phases identified are as follows:
 
@@ -932,34 +934,39 @@ in phases that relate to the comparison and assessment of solutions.
 
 |image2|
 
-======================================================================
-===========================================================
-**MACRO FASE 1**                                                       **MACRO-PHASE 1**
-                                                                      
-Individuazione delle esigenze                                          Identification of requirements
-======================================================================
-===========================================================
-**Fase 1.1**                                                           **Phase 1.1**
-                                                                      
-Analisi del bisogno                                                    Needs analysis
-**Fase 1.2**                                                           **Phase 1.2**
-                                                                      
-Individuazione dei vincoli                                             Identification of constraints
-**Fase 1.3**                                                           **Phase 1.3**
-                                                                      
-Definizione delle esigenze                                             Definition of requirements
-**MACRO FASE 2**                                                       **MACRO-PHASE 2**
-                                                                      
-Analisi delle soluzioni a riuso delle PA e delle soluzioni open source Analysis of reusable PA solutions and open source solutions
-                                                                      
-[lettera b), c) dell’art. 68 comma 1]                                  [letters (b) and (c) of Article 68(1)]
-**MACRO FASE 3**                                                       **MACRO-PHASE 3**
-                                                                      
-Analisi delle altre soluzioni                                          Analysis of other solutions
-                                                                      
-[lettera a), e), f) dell’art. 68 comma 1]                              [letters (a), (e) and (f) of Article 68(1)]
-======================================================================
-===========================================================
++-----------------------------------+-----------------------------------+
+| **MACRO FASE 1**                  | **MACRO-PHASE 1**                 |
+|                                   |                                   |
+| Individuazione delle esigenze     | Identification of requirements    |
++===================================+===================================+
+| **Fase 1.1**                      | **Phase 1.1**                     |
+|                                   |                                   |
+| Analisi del bisogno               | Needs analysis                    |
++-----------------------------------+-----------------------------------+
+| **Fase 1.2**                      | **Phase 1.2**                     |
+|                                   |                                   |
+| Individuazione dei vincoli        | Identification of constraints     |
++-----------------------------------+-----------------------------------+
+| **Fase 1.3**                      | **Phase 1.3**                     |
+|                                   |                                   |
+| Definizione delle esigenze        | Definition of requirements        |
++-----------------------------------+-----------------------------------+
+| **MACRO FASE 2**                  | **MACRO-PHASE 2**                 |
+|                                   |                                   |
+| Analisi delle soluzioni a riuso   | Analysis of reusable PA solutions |
+| delle PA e delle soluzioni open   | and open source solutions         |
+| source                            |                                   |
+|                                   | [letters (b) and (c) of           |
+| [lettera b), c) dell’art. 68      | Article 68(1)]                    |
+| comma 1]                          |                                   |
++-----------------------------------+-----------------------------------+
+| **MACRO FASE 3**                  | **MACRO-PHASE 3**                 |
+|                                   |                                   |
+| Analisi delle altre soluzioni     | Analysis of other solutions       |
+|                                   |                                   |
+| [lettera a), e), f) dell’art. 68  | [letters (a), (e) and (f) of      |
+| comma 1]                          | Article 68(1)]                    |
++-----------------------------------+-----------------------------------+
 
 2.4.1 Phase 1.1: Needs analysis
 
@@ -1049,54 +1056,75 @@ The public administration, starting from the availability of 'reusable
 PA solutions' and 'open source solutions', must verify that their
 requirements have been satisfied with such solutions.
 
-   |image3|
+|image3|
 
-======================================================================
-===========================================================
-**MACRO FASE 1**                                                       **MACRO-PHASE 1**
-                                                                      
-Individuazione delle esigenze                                          Identification of requirements
-======================================================================
-===========================================================
-**MACRO FASE 2**                                                       **MACRO-PHASE 2**
-                                                                      
-Analisi delle soluzioni a riuso delle PA e delle soluzioni open source Analysis of reusable PA solutions and open source solutions
-                                                                      
-[lettera b), c) dell’art. 68 comma 1]                                  [letters (b) and (c) of Article 68(1)]
-**Fase 2.1**                                                           **Phase 2.1**
-                                                                      
-Selezione soluzioni riusabili per la PA                                Selection of reusable solutions for the PA
-Trovata almeno una soluzione                                           At least one solution found
-**Fase 2.2**                                                           **Phase 2.2**
-                                                                      
-Valutazione soluzioni riusabili per la PA                              Assessment of reusable solutions for the PA
-Trovata una soluzione                                                  One solution found
-**Fase 2.3**                                                           **Phase 2.3**
-                                                                      
-Approvigionamento della soluzione riusabile per la PA                  Procurement of the reusable solution for the PA
-**Fase 2.4**                                                           **Phase 2.4**
-                                                                      
-Selezione soluzioni open source                                        Selection of open source solutions
-Trovata almeno una soluzione                                           At least one solution found
-**Fase 2.5**                                                           **Phase 2.5**
-                                                                      
-Valutazione soluzioni open source                                      Assessment of open source solutions
-Trovata una soluzione                                                  One solution found
-**Fase 2.6**                                                           **Phase 2.6**
-                                                                      
-Approvigionamento della soluzione open source                          Procurement of the open source solution
-**Fase 2.7**                                                           **Phase 2.7**
-                                                                      
-Accertamento impossibilità                                             Impossibility determination
-SI                                                                     YES
-NO                                                                     NO
-**MACRO FASE 3**                                                       **MACRO-PHASE 3**
-                                                                      
-Analisi delle altre soluzioni                                          Analysis of other solutions
-                                                                      
-[lettera a), e), f) dell’art. 68 comma 1]                              [letters (a), (e) and (f) of Article 68(1)]
-======================================================================
-===========================================================
++-----------------------------------+-----------------------------------+
+| **MACRO FASE 1**                  | **MACRO-PHASE 1**                 |
+|                                   |                                   |
+| Individuazione delle esigenze     | Identification of requirements    |
++===================================+===================================+
+| **MACRO FASE 2**                  | **MACRO-PHASE 2**                 |
+|                                   |                                   |
+| Analisi delle soluzioni a riuso   | Analysis of reusable PA solutions |
+| delle PA e delle soluzioni open   | and open source solutions         |
+| source                            |                                   |
+|                                   | [letters (b) and (c) of           |
+| [lettera b), c) dell’art. 68      | Article 68(1)]                    |
+| comma 1]                          |                                   |
++-----------------------------------+-----------------------------------+
+| **Fase 2.1**                      | **Phase 2.1**                     |
+|                                   |                                   |
+| Selezione soluzioni riusabili per | Selection of reusable solutions   |
+| la PA                             | for the PA                        |
++-----------------------------------+-----------------------------------+
+| Trovata almeno una soluzione      | At least one solution found       |
++-----------------------------------+-----------------------------------+
+| **Fase 2.2**                      | **Phase 2.2**                     |
+|                                   |                                   |
+| Valutazione soluzioni riusabili   | Assessment of reusable solutions  |
+| per la PA                         | for the PA                        |
++-----------------------------------+-----------------------------------+
+| Trovata una soluzione             | One solution found                |
++-----------------------------------+-----------------------------------+
+| **Fase 2.3**                      | **Phase 2.3**                     |
+|                                   |                                   |
+| Approvigionamento della soluzione | Procurement of the reusable       |
+| riusabile per la PA               | solution for the PA               |
++-----------------------------------+-----------------------------------+
+| **Fase 2.4**                      | **Phase 2.4**                     |
+|                                   |                                   |
+| Selezione soluzioni open source   | Selection of open source          |
+|                                   | solutions                         |
++-----------------------------------+-----------------------------------+
+| Trovata almeno una soluzione      | At least one solution found       |
++-----------------------------------+-----------------------------------+
+| **Fase 2.5**                      | **Phase 2.5**                     |
+|                                   |                                   |
+| Valutazione soluzioni open source | Assessment of open source         |
+|                                   | solutions                         |
++-----------------------------------+-----------------------------------+
+| Trovata una soluzione             | One solution found                |
++-----------------------------------+-----------------------------------+
+| **Fase 2.6**                      | **Phase 2.6**                     |
+|                                   |                                   |
+| Approvigionamento della soluzione | Procurement of the open source    |
+| open source                       | solution                          |
++-----------------------------------+-----------------------------------+
+| **Fase 2.7**                      | **Phase 2.7**                     |
+|                                   |                                   |
+| Accertamento impossibilità        | Impossibility determination       |
++-----------------------------------+-----------------------------------+
+| SI                                | YES                               |
++-----------------------------------+-----------------------------------+
+| NO                                | NO                                |
++-----------------------------------+-----------------------------------+
+| **MACRO FASE 3**                  | **MACRO-PHASE 3**                 |
+|                                   |                                   |
+| Analisi delle altre soluzioni     | Analysis of other solutions       |
+|                                   |                                   |
+| [lettera a), e), f) dell’art. 68  | [letters (a), (e) and (f) of      |
+| comma 1]                          | Article 68(1)]                    |
++-----------------------------------+-----------------------------------+
 
 In order to rationalise the overall expenditure of public
 administrations, the verification process to ensure that requirements
@@ -1331,39 +1359,50 @@ In order to satisfy its requirements, the public administration MUST
 also examine the opportunities offered by proprietary solutions and
 those built from scratch.
 
-   |image4|
+|image4|
 
-======================================================================
-===========================================================
-**MACRO FASE 1**                                                       **MACRO-PHASE 1**
-                                                                      
-Individuazione delle esigenze                                          Identification of requirements
-======================================================================
-===========================================================
-**MACRO FASE 2**                                                       **MACRO-PHASE 2**
-                                                                      
-Analisi delle soluzioni a riuso delle PA e delle soluzioni open source Analysis of reusable PA solutions and open source solutions
-                                                                      
-[lettera b), c) dell’art. 68 comma 1]                                  [letters (b) and (c) of Article 68(1)]
-**MACRO FASE 3**                                                       **MACRO-PHASE 3**
-                                                                      
-Analisi delle altre soluzioni                                          Analysis of other solutions
-                                                                      
-[lettera a), e), f) dell’art. 68 comma 1]                              [letters (a), (e) and (f) of Article 68(1)]
-**Fase 3.1**                                                           **Phase 3.1**
-                                                                      
-Ricerca soluzioni proprietarie                                         Identifying proprietary solutions
-**Fase 3.2**                                                           **Phase 3.2**
-                                                                      
-Studio realizzazione ex-novo                                           Analysis of from-scratch solutions
-**Fase 3.3**                                                           **Phase 3.3**
-                                                                      
-Comparazione soluzioni proprietarie e realizzazione ex-novo            Comparison of proprietary and from-scratch solutions
-**Fase 3.4**                                                           **Phase 3.4**
-                                                                      
-Approvigionamento soluzione proprietaria o realizzazione ex-novo       Procurement of proprietary or from-scratch solution
-======================================================================
-===========================================================
++-----------------------------------+-----------------------------------+
+| **MACRO FASE 1**                  | **MACRO-PHASE 1**                 |
+|                                   |                                   |
+| Individuazione delle esigenze     | Identification of requirements    |
++===================================+===================================+
+| **MACRO FASE 2**                  | **MACRO-PHASE 2**                 |
+|                                   |                                   |
+| Analisi delle soluzioni a riuso   | Analysis of reusable PA solutions |
+| delle PA e delle soluzioni open   | and open source solutions         |
+| source                            |                                   |
+|                                   | [letters (b) and (c) of           |
+| [lettera b), c) dell’art. 68      | Article 68(1)]                    |
+| comma 1]                          |                                   |
++-----------------------------------+-----------------------------------+
+| **MACRO FASE 3**                  | **MACRO-PHASE 3**                 |
+|                                   |                                   |
+| Analisi delle altre soluzioni     | Analysis of other solutions       |
+|                                   |                                   |
+| [lettera a), e), f) dell’art. 68  | [letters (a), (e) and (f) of      |
+| comma 1]                          | Article 68(1)]                    |
++-----------------------------------+-----------------------------------+
+| **Fase 3.1**                      | **Phase 3.1**                     |
+|                                   |                                   |
+| Ricerca soluzioni proprietarie    | Identifying proprietary solutions |
++-----------------------------------+-----------------------------------+
+| **Fase 3.2**                      | **Phase 3.2**                     |
+|                                   |                                   |
+| Studio realizzazione ex-novo      | Analysis of from-scratch          |
+|                                   | solutions                         |
++-----------------------------------+-----------------------------------+
+| **Fase 3.3**                      | **Phase 3.3**                     |
+|                                   |                                   |
+| Comparazione soluzioni            | Comparison of proprietary and     |
+| proprietarie e realizzazione      | from-scratch solutions            |
+| ex-novo                           |                                   |
++-----------------------------------+-----------------------------------+
+| **Fase 3.4**                      | **Phase 3.4**                     |
+|                                   |                                   |
+| Approvigionamento soluzione       | Procurement of proprietary or     |
+| proprietaria o realizzazione      | from-scratch solution             |
+| ex-novo                           |                                   |
++-----------------------------------+-----------------------------------+
 
 1. Phase 3.1: Identifying proprietary solutions
 
@@ -1910,26 +1949,22 @@ selecting an open licence:
       (SPDX identifier: AGPL-3.0-or-later):
       https://spdx.org/licenses/AGPL-3.0-or-later.html;
 
-..
-
-   This licence was chosen because, in addition to being compatible with
-   most open source licences, it requires those who modify the code to
-   release improvements even if it is used as part of a SaaS service.
+This licence was chosen because, in addition to being compatible with
+most open source licences, it requires those who modify the code to
+release improvements even if it is used as part of a SaaS service.
 
 -  if **software components** with a wide range of applications (e.g.
    '**software libraries**' and '**SDKs**') are being released, use the
    'BSD 3-Clause' licence (SPDX identifier: BSD-3-Clause)
    https://spdx.org/licenses/BSD-3-Clause.html;
 
-..
-
-   This licence has been chosen to ensure that all stakeholders use it
-   as freely as possible, allowing applications to be created based on
-   such libraries, which can be released under any licence. These types
-   of software components are normally used to facilitate
-   interoperability with public administrations, and benefit from the
-   emergence of ecosystems that include third-party applications,
-   including proprietary software.
+This licence has been chosen to ensure that all stakeholders use it as
+freely as possible, allowing applications to be created based on such
+libraries, which can be released under any licence. These types of
+software components are normally used to facilitate interoperability
+with public administrations, and benefit from the emergence of
+ecosystems that include third-party applications, including proprietary
+software.
 
 -  For software **technical documentation**, use the Creative Commons
    licence CC-BY 4.0 (SPDX identifier: CC-BY-4.0)
@@ -2232,16 +2267,14 @@ The regulatory context is as follows:
 
 -  Article 69(1) of the Digital Administration Code requires that
 
-..
-
-   ‘Public administrations that are owners of solutions and computer
-   programs made to specific specifications of the public client, have
-   the obligation to make the relevant source code available, complete
-   with documentation and released in public repository under an open
-   licence, for use free of charge for other public administrations or
-   for legal entities wishing to adapt them to their own requirements,
-   except when there are ‘justified reasons of public order and safety,
-   national defence and electoral consultations’.
+‘Public administrations that are owners of solutions and computer
+programs made to specific specifications of the public client, have the
+obligation to make the relevant source code available, complete with
+documentation and released in public repository under an open licence,
+for use free of charge for other public administrations or for legal
+entities wishing to adapt them to their own requirements, except when
+there are ‘justified reasons of public order and safety, national
+defence and electoral consultations’.
 
 -  The AgID guidelines (hereinafter referred to as the 'guidelines')
    provide further details on this obligation, detailing the reuse model
@@ -3054,10 +3087,8 @@ with the following interventions taking priority:
 -  where it is possible to extend existing classes or modules in general
    without modifying their code (i.e. for
 
-..
-
-   an *addition*, by exploiting existing extension points), this path
-   MUST be followed.
+an *addition*, by exploiting existing extension points), this path MUST
+be followed.
 
 If it is not possible to perform all the functions through the
 aforementioned extension mechanisms, but the original source code
@@ -3202,10 +3233,8 @@ with the following interventions taking priority:
 -  where it is possible to extend existing classes or modules in general
    without modifying their code (i.e. for
 
-..
-
-   an *addition*, by exploiting existing extension points), this path
-   MUST be followed.
+an *addition*, by exploiting existing extension points), this path MUST
+be followed.
 
 If it is not possible to perform all the functions through the
 aforementioned extension mechanisms, but the original source code
@@ -3290,74 +3319,167 @@ decision-making process for public administrations, which takes into
 account the information contained in Article 68 as well as Article 69 of
 the CAD, reference shall be made to the following summary framework:
 
-=======================================================================================
-=================================================================================
-=================================================================================
-=======================================================
-==================================================
-=======================================================================
-================================== =====================================
-======================================
-Solutions Article 68                                                                    Obligation to reuse Article 69(1)                                                 Obligation to acquire ownership Article 69(2)                                     Obligation for economic assessment (TCO) Article 68(1a) Obligation for technical assessment Article 68(1b) Ensuring interoperability between public administrations Article 68(1a) Security guarantees Article 68(1a) Privacy law compliance Article 68(1a) Adequate service levels Article 68(1a)
-=======================================================================================
-=================================================================================
-=================================================================================
-=======================================================
-==================================================
-=======================================================================
-================================== =====================================
-======================================
-Software developed on behalf of the public administration                               Yes                                                                               Yes                                                                               Yes, with the exception of acquisition                  Yes                                                Yes                                                                     Yes                                Yes                                   Yes
-The reuse of software or parts thereof developed on behalf of the public administration Yes, only in the case of modification                                             Yes                                                                               Yes, with the exception of acquisition                  Yes                                                Yes                                                                     Yes                                Yes                                   Yes
-Free software or open source code                                                       Yes, only in the case of modification                                             No                                                                                Yes, with the exception of acquisition                  Yes                                                Yes                                                                     Yes                                Yes                                   Yes
-Software usable in cloud computing mode                                                 Yes, only for software already owned by or implemented ad hoc for the PA          Yes, only for software already owned by or implemented ad hoc for the PA          Yes                                                     Yes                                                Yes                                                                     Yes                                Yes                                   Yes
-Proprietary software through use of a user licence                                      No, except for software created to enable application interoperability (e.g. API) No, except for software created to enable application interoperability (e.g. API) Yes                                                     Yes                                                Yes                                                                     Yes                                Yes                                   Yes
-Software combination of the previous solutions                                          Yes, only for software already owned by or implemented ad hoc for the PA          Yes, only for software already owned by or implemented ad hoc for the PA          Yes                                                     Yes                                                Yes                                                                     Yes                                Yes                                   Yes
-=======================================================================================
-=================================================================================
-=================================================================================
-=======================================================
-==================================================
-=======================================================================
-================================== =====================================
-======================================
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Solut | Oblig | Oblig | Oblig | Oblig | Ensur | Secur | Priva | Adequ |
+| ions  | ation | ation | ation | ation | ing   | ity   | cy    | ate   |
+| Artic | to    | to    | for   | for   | inter | guara | law   | servi |
+| le 68 | reuse | acqui | econo | techn | opera | ntees | compl | ce    |
+|       | Artic | re    | mic   | ical  | bilit | Artic | iance | level |
+|       | le 69 | owner | asses | asses | y     | le 68 | Artic | s     |
+|       | (1)   | ship  | sment | sment | betwe | (1a)  | le 68 | Artic |
+|       |       | Artic | (TCO) | Artic | en    |       | (1a)  | le 68 |
+|       |       | le 69 | Artic | le 68 | publi |       |       | (1a)  |
+|       |       | (2)   | le 68 | (1b)  | c     |       |       |       |
+|       |       |       | (1a)  |       | admin |       |       |       |
+|       |       |       |       |       | istra |       |       |       |
+|       |       |       |       |       | tions |       |       |       |
+|       |       |       |       |       | Artic |       |       |       |
+|       |       |       |       |       | le 68 |       |       |       |
+|       |       |       |       |       | (1a)  |       |       |       |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| Softw | Yes   | Yes   | Yes,  | Yes   | Yes   | Yes   | Yes   | Yes   |
+| are   |       |       | with  |       |       |       |       |       |
+| devel |       |       | the   |       |       |       |       |       |
+| oped  |       |       | excep |       |       |       |       |       |
+| on    |       |       | tion  |       |       |       |       |       |
+| behal |       |       | of    |       |       |       |       |       |
+| f     |       |       | acqui |       |       |       |       |       |
+| of    |       |       | sitio |       |       |       |       |       |
+| the   |       |       | n     |       |       |       |       |       |
+| publi |       |       |       |       |       |       |       |       |
+| c     |       |       |       |       |       |       |       |       |
+| admin |       |       |       |       |       |       |       |       |
+| istra |       |       |       |       |       |       |       |       |
+| tion  |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| The   | Yes,  | Yes   | Yes,  | Yes   | Yes   | Yes   | Yes   | Yes   |
+| reuse | only  |       | with  |       |       |       |       |       |
+| of    | in    |       | the   |       |       |       |       |       |
+| softw | the   |       | excep |       |       |       |       |       |
+| are   | case  |       | tion  |       |       |       |       |       |
+| or    | of    |       | of    |       |       |       |       |       |
+| parts | modif |       | acqui |       |       |       |       |       |
+| there | icati |       | sitio |       |       |       |       |       |
+| of    | on    |       | n     |       |       |       |       |       |
+| devel |       |       |       |       |       |       |       |       |
+| oped  |       |       |       |       |       |       |       |       |
+| on    |       |       |       |       |       |       |       |       |
+| behal |       |       |       |       |       |       |       |       |
+| f     |       |       |       |       |       |       |       |       |
+| of    |       |       |       |       |       |       |       |       |
+| the   |       |       |       |       |       |       |       |       |
+| publi |       |       |       |       |       |       |       |       |
+| c     |       |       |       |       |       |       |       |       |
+| admin |       |       |       |       |       |       |       |       |
+| istra |       |       |       |       |       |       |       |       |
+| tion  |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Free  | Yes,  | No    | Yes,  | Yes   | Yes   | Yes   | Yes   | Yes   |
+| softw | only  |       | with  |       |       |       |       |       |
+| are   | in    |       | the   |       |       |       |       |       |
+| or    | the   |       | excep |       |       |       |       |       |
+| open  | case  |       | tion  |       |       |       |       |       |
+| sourc | of    |       | of    |       |       |       |       |       |
+| e     | modif |       | acqui |       |       |       |       |       |
+| code  | icati |       | sitio |       |       |       |       |       |
+|       | on    |       | n     |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Softw | Yes,  | Yes,  | Yes   | Yes   | Yes   | Yes   | Yes   | Yes   |
+| are   | only  | only  |       |       |       |       |       |       |
+| usabl | for   | for   |       |       |       |       |       |       |
+| e     | softw | softw |       |       |       |       |       |       |
+| in    | are   | are   |       |       |       |       |       |       |
+| cloud | alrea | alrea |       |       |       |       |       |       |
+| compu | dy    | dy    |       |       |       |       |       |       |
+| ting  | owned | owned |       |       |       |       |       |       |
+| mode  | by or | by or |       |       |       |       |       |       |
+|       | imple | imple |       |       |       |       |       |       |
+|       | mente | mente |       |       |       |       |       |       |
+|       | d     | d     |       |       |       |       |       |       |
+|       | ad    | ad    |       |       |       |       |       |       |
+|       | hoc   | hoc   |       |       |       |       |       |       |
+|       | for   | for   |       |       |       |       |       |       |
+|       | the   | the   |       |       |       |       |       |       |
+|       | PA    | PA    |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Propr | No,   | No,   | Yes   | Yes   | Yes   | Yes   | Yes   | Yes   |
+| ietar | excep | excep |       |       |       |       |       |       |
+| y     | t     | t     |       |       |       |       |       |       |
+| softw | for   | for   |       |       |       |       |       |       |
+| are   | softw | softw |       |       |       |       |       |       |
+| throu | are   | are   |       |       |       |       |       |       |
+| gh    | creat | creat |       |       |       |       |       |       |
+| use   | ed    | ed    |       |       |       |       |       |       |
+| of a  | to    | to    |       |       |       |       |       |       |
+| user  | enabl | enabl |       |       |       |       |       |       |
+| licen | e     | e     |       |       |       |       |       |       |
+| ce    | appli | appli |       |       |       |       |       |       |
+|       | catio | catio |       |       |       |       |       |       |
+|       | n     | n     |       |       |       |       |       |       |
+|       | inter | inter |       |       |       |       |       |       |
+|       | opera | opera |       |       |       |       |       |       |
+|       | bilit | bilit |       |       |       |       |       |       |
+|       | y     | y     |       |       |       |       |       |       |
+|       | (e.g. | (e.g. |       |       |       |       |       |       |
+|       | API)  | API)  |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Softw | Yes,  | Yes,  | Yes   | Yes   | Yes   | Yes   | Yes   | Yes   |
+| are   | only  | only  |       |       |       |       |       |       |
+| combi | for   | for   |       |       |       |       |       |       |
+| natio | softw | softw |       |       |       |       |       |       |
+| n     | are   | are   |       |       |       |       |       |       |
+| of    | alrea | alrea |       |       |       |       |       |       |
+| the   | dy    | dy    |       |       |       |       |       |       |
+| previ | owned | owned |       |       |       |       |       |       |
+| ous   | by or | by or |       |       |       |       |       |       |
+| solut | imple | imple |       |       |       |       |       |       |
+| ions  | mente | mente |       |       |       |       |       |       |
+|       | d     | d     |       |       |       |       |       |       |
+|       | ad    | ad    |       |       |       |       |       |       |
+|       | hoc   | hoc   |       |       |       |       |       |       |
+|       | for   | for   |       |       |       |       |       |       |
+|       | the   | the   |       |       |       |       |       |       |
+|       | PA    | PA    |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
 
 .. [1]
+
    `http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50!vig= <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50!vig>`__
 
 .. [2]
+
    http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=~art68
 
 .. [3]
+
    http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=~art69
 
 .. [4]
-   `Feasibility analysis for the acquisition of ICT
+    `Feasibility analysis for the acquisition of ICT
    supplies <http://www.agid.gov.it/node/881>`__
 
 .. [5]
-   Stallman, The Free *software* Definition -
+    Stallman, The Free *software* Definition -
    https://www.gnu.org/philosophy/free-sw.it.html
 
 .. [6]
-   https://www.opensource.org/
+    https://www.opensource.org/
 
 .. [7]
-   `https://spdx.org <https://spdx.org/>`__
+    `https://spdx.org <https://spdx.org/>`__
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: ./media/image1.png
    :width: 2.84931in
    :height: 0.42778in
-.. |image1| image:: media/image2.png
+.. |image1| image:: ./media/image2.png
    :width: 3.24167in
    :height: 4.44722in
-.. |image2| image:: media/image3.png
+.. |image2| image:: ./media/image3.png
    :width: 3.24167in
    :height: 7.23194in
-.. |image3| image:: media/image4.png
+.. |image3| image:: ./media/image4.png
    :width: 6.23333in
    :height: 9.00069in
-.. |image4| image:: media/image5.png
+.. |image4| image:: ./media/image5.png
    :width: 6.26319in
    :height: 7.82569in
->>>>>>> first try
