@@ -1,3 +1,6 @@
+Software compliance with regulations
+--------------------------------------
+
 Reusing software amplifies any selection made within the information
 technology field and is completely neutral with respect to the quality
 or lack thereof of selections made. It can multiply the impact of good
