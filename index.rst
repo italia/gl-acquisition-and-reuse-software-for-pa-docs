@@ -1,9 +1,5 @@
-1. ------IND- 2018 0635 I-- EN- ------ 20190118 --- --- PROJET
-
-|image0|
-
-**Guidelines on the acquisition and reuse of software for public
-administrations**
+Guidelines on the acquisition and reuse of software for public administrations
++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 **Final release**
 
