@@ -1,3 +1,6 @@
+Ownership
+-----------------
+
 In accordance with Article 69 of the CAD, as regards reuse, an
 administration is to be considered as the owner of software designed to
 meet its own specifications whenever:
