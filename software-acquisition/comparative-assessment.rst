@@ -1,7 +1,7 @@
 Comparative assessment
 -------------------------
 
-1. Description of solutions
+Description of solutions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Article 68(1) of the CAD indicates the types of solution subject to
@@ -80,7 +80,7 @@ computing), this is to be considered as a method for the provision of IT
 services, and therefore can be occasionally combined with categories A),
 B), C) and E).
 
-2. Description of the assessment criteria
+Description of the assessment criteria
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Below is a brief description of the criteria required for the
@@ -124,7 +124,7 @@ supplier to provide services in compliance with the metrics previously
 identified by the public administration in a Service Level Agreement
 (SLA).
 
-3. Description of macro-phases
+Description of macro-phases
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Given the varied nature of the solutions and the difficulty in making
