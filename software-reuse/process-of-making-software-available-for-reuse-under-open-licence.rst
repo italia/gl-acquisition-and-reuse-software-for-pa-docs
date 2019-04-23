@@ -96,3 +96,23 @@ administration must provide adequate visibility of the tools on its web
 page, as detailed in the same guide (`Registration of
 the <#_Toc535583380>`__\ `repository on Developers
 Italia <#_Toc535583380>`__).
+
+Registration of open software on Developers Italia
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Software released by the administration must be 'registered' in the
+search engine of Developers Italia, to facilitate access by other
+administrations that are looking for reusable software.
+
+The precise technical process for registration is indicated in the
+section `Registering the repository on <#_Toc535583380>`__\ `Developers
+Italia <#_Toc535583380>`__.
+
+Responsibilities related to the release
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The administration that owns the software does not incur any specific
+obligation related to the release: it is not necessary to provide a
+warranty with the software, technical or user level support, nor
+financially support administrations that reuse the software as regards
+costs or adoption procedures.
