@@ -43,7 +43,7 @@ in phases that relate to the comparison and assessment of solutions.
 | comma 1]                          | Article 68(1)]                    |
 +-----------------------------------+-----------------------------------+
 
-2.4.1 Phase 1.1: Needs analysis
+Phase 1.1: Needs analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The administration defines its own needs for the identification of the
@@ -75,7 +75,7 @@ This phase concludes with the:
 
 -  identification of the needs of the public administration.
 
-2.4.2 Phase 1.2: Identification of constraints
+Phase 1.2: Identification of constraints
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The administration shall describe the constraints that will affect the
@@ -112,7 +112,7 @@ This phase concludes with the:
 -  identification of constraints (economic and time-related) that affect
    the choices of the administration.
 
-2.4.3 Phase 1.3: Drafting of the document describing the requirements
+Phase 1.3: Drafting of the document describing the requirements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The administration shall draft a document describing its requirements to
