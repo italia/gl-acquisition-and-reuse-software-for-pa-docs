@@ -8,3 +8,4 @@ Guidelines for software reuse (Article 69)
   software-reuse/introduction-and-legislative-context.rst
   software-reuse/reuse-model.rst
   software-reuse/developers-italia-and-identifying-software-for-reuse.rst
+  software-reuse/process-of-making-software-available-for-reuse-under-open-licence.rst
