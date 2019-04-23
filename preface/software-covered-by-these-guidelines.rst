@@ -1,3 +1,6 @@
+Software covered by these guidelines
+-----------------------------------------
+
 In order to dispel any interpretative doubts, in the context of
 Articles 68 and 69 of the CAD, the terms ‘programs', 'solutions',
 'computer programs' and 'ICT solutions' are to be understood as the
