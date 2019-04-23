@@ -12,7 +12,7 @@ Guidelines for acquiring software
    software-acquisition/macro-phase-1-Identification-of-requirements.rst
    software-acquisition/macro-phase-2-Analysis-of-reusable-PA-solutions-and-open-source-solutions.rst
    software-acquisition/macro-phase-3-Analysis-of-other-solutions.rst
-   software-acquisition/total-cost-of-ownership-(TCO).rst
+   software-acquisition/total-cost-of-ownership.rst
    software-acquisition/choice-of-software-provision-method.rst
    
    
