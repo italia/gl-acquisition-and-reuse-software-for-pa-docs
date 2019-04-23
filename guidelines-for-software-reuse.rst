@@ -13,3 +13,4 @@ Guidelines for software reuse (Article 69)
   software-reuse/releasing-existing-software-under-open-licence.rst
   software-reuse/development-of-software-from-scratch.rst
   software-reuse/maintenance-of-software-by-the-owner-administration.rst
+  software-reuse/reuse-of-software-or-use-of-open-source-software.rst
