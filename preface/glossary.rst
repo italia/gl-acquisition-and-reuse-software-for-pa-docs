@@ -1,3 +1,8 @@
+.. _glossary:
+
+Glossary
+---------
+
 **Artefacts** By-products created during software development that help
 describe functions, architecture, design and commissioning; for example:
 functional requirements, description of databases and processes, the
