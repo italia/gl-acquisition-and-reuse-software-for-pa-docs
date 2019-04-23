@@ -1,13 +1,16 @@
-Guidelines on the acquisition and reuse of software for public administrations
+Guidelines on the acquisition and reuse of *software* for public administrations
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-**Final release**
+.. toctree::
+   :caption: Table of contents
+   :numbered:
+   :maxdepth: 3
 
-**Agency for Digital Italy**
+   preface.rst
+   software-acquisition.rst
+   software-reuse.rst
 
-**27 July 2018**
 
-Table of contents
 
 `Preface 1 <#_Toc535583311>`__
 
