@@ -1,3 +1,6 @@
+Purpose and structure of the document
+---------------------------------------------
+
 These guidelines are adopted in implementing Articles 68 and 69 of the
 *Digital Administration Code* (hereinafter CAD):
 
