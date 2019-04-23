@@ -1,8 +1,8 @@
 Comparative assessment
 -------------------------
 
- 1. Description of solutions
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Description of solutions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Article 68(1) of the CAD indicates the types of solution subject to
 comparative analysis by type of software:
