@@ -1,3 +1,6 @@
+Subjects of the guidelines
+-------------------------------------
+
 These guidelines are addressed to public administrations referred to in
 Article 1(2) of Legislative Decree No 165 of 30 March 2001, in
 compliance with the division of competence referred to in Article 117 of
