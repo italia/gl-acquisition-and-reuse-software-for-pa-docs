@@ -10,6 +10,7 @@ Guidelines on the acquisition and reuse of *software* for public administrations
    software-acquisition.rst
    software-reuse.rst
    guidelines-for-software-reuse.rst
+   attachments.rst
    
       
 .. only:: html
