@@ -98,7 +98,7 @@ exhaustive, and where it is not possible to answer in detail
 immediately, it is advisable to provide a courteous response with some
 initial considerations.
 
-**Bug fixes**
+Bug fixes
 ++++++++++++++++++++++++
 
 Bug reports received from external users through the issue tracking
@@ -121,7 +121,7 @@ fix before closing it. If there is no response for 30 days, the
 Responsible party may close the issue, after having documented the
 successful acceptance of the change.
 
-**Requests for new functionalities**
+Requests for new functionalities
 ++++++++++++++++++++++++
 
 Requests for new functionalities must be assessed by the Responsible
@@ -146,7 +146,7 @@ by implementing it in the code, without causing any additional burden to
 the administration and within the time-frame of the contract (for
 example, pursuant to other commercial agreements on the same software).
 
-**Requests for information or support**
+Requests for information or support
 ++++++++++++++++++++++++
 
 Requests for information about the project SHOULD be processed by the
@@ -160,7 +160,7 @@ regard to the use that the administration makes of the software or in
 general with regard to other matters for which the administration is
 responsible.
 
-**Code contributions**
+Code contributions
 ++++++++++++++++++++++++
 
 Code contributions sent through the collaboration mechanisms provided by
