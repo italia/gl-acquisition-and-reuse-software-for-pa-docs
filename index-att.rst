@@ -1,5 +1,5 @@
 .. toctree::
-   :caption: Indice degli allegati
+   :caption: Index of attachments
 
    attachments/annex-A-Guide-to-publishing-software-as-open-source.rst
    attachments/annex-B-Open-source-software-maintenance-guide.rst
