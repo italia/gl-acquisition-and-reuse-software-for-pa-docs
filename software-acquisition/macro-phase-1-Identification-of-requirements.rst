@@ -7,7 +7,7 @@ of a solution; it is recommended to prepare a document (without any
 format restrictions) describing the identified requirements to be used
 in phases that relate to the comparison and assessment of solutions.
 
-|image2|
+.. image:: media/image2.png
 
 +-----------------------------------+-----------------------------------+
 | **MACRO FASE 1**                  | **MACRO-PHASE 1**                 |
