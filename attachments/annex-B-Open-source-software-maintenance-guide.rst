@@ -99,6 +99,7 @@ immediately, it is advisable to provide a courteous response with some
 initial considerations.
 
 **Bug fixes**
+++++++++++++++++++++++++
 
 Bug reports received from external users through the issue tracking
 system must be analysed in the same way as those received from the
@@ -121,6 +122,7 @@ Responsible party may close the issue, after having documented the
 successful acceptance of the change.
 
 **Requests for new functionalities**
+++++++++++++++++++++++++
 
 Requests for new functionalities must be assessed by the Responsible
 party, in agreement with the administration, in relation to their
@@ -145,6 +147,7 @@ the administration and within the time-frame of the contract (for
 example, pursuant to other commercial agreements on the same software).
 
 **Requests for information or support**
+++++++++++++++++++++++++
 
 Requests for information about the project SHOULD be processed by the
 Responsible party within 2 working days. The answers must be limited to
@@ -158,6 +161,7 @@ general with regard to other matters for which the administration is
 responsible.
 
 **Code contributions**
+++++++++++++++++++++++++
 
 Code contributions sent through the collaboration mechanisms provided by
 the chosen code hosting platform (e.g. through a pull request) MUST be
