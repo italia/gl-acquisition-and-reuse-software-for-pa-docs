@@ -139,7 +139,8 @@ The following diagram provides the macro-phases that characterise the
 decision-making process to follow up the comparative assessment provided
 for in Article 68 of the CAD.
 
-|image1|
+.. figure:: media/image1.png
+   :alt: image1
 
 +-----------------------------------+-----------------------------------+
 | **MACRO FASE 1**                  | **MACRO-PHASE 1**                 |
