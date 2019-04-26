@@ -5,7 +5,8 @@ The public administration, starting from the availability of 'reusable
 PA solutions' and 'open source solutions', must verify that their
 requirements have been satisfied with such solutions.
 
-|image3|
+.. figure:: media/image3.png
+   :alt: image3
 
 +-----------------------------------+-----------------------------------+
 | **MACRO FASE 1**                  | **MACRO-PHASE 1**                 |
