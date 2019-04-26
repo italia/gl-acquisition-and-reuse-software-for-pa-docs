@@ -9,7 +9,7 @@ in phases that relate to the comparison and assessment of solutions.
 
 |image2|
 
-.. image:: path/filename.png
+.. image:: image2.png
 
 .. image:: media/image2.png
 
