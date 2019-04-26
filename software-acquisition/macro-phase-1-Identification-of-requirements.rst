@@ -15,6 +15,8 @@ in phases that relate to the comparison and assessment of solutions.
 
 .. figure:: image2.png
 
+.. figure:: media/image2.png
+
 
 +-----------------------------------+-----------------------------------+
 | **MACRO FASE 1**                  | **MACRO-PHASE 1**                 |
