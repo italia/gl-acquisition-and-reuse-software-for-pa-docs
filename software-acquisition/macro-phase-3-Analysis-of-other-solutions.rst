@@ -1,11 +1,11 @@
 Macro-phase 3: Analysis of other solutions
 ----------------------------------------------
 
-In order to satisfy its requirements, the public administration MUST
+AAAIn order to satisfy its requirements, the public administration MUST
 also examine the opportunities offered by proprietary solutions and
 those built from scratch.
 
-.. figure:: media/image4.png
+.. image:: media/image4.png
 
 +-----------------------------------+-----------------------------------+
 | **MACRO FASE 1**                  | **MACRO-PHASE 1**                 |
