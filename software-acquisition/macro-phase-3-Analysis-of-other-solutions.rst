@@ -5,7 +5,7 @@ In order to satisfy its requirements, the public administration MUST
 also examine the opportunities offered by proprietary solutions and
 those built from scratch.
 
-|image4|
+.. figure:: media/image4.png
 
 +-----------------------------------+-----------------------------------+
 | **MACRO FASE 1**                  | **MACRO-PHASE 1**                 |
