@@ -59,3 +59,15 @@ provisions of Article 69(2) of the CAD [3]_: ’the reuse of computer
 programs owned by public administrations' ensuring that the latter, in
 addition to being owners of the software, make the software available
 through open source with the affixing of an open licence.
+
+.. [1]
+
+   `http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50!vig= <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50!vig>`__
+
+.. [2]
+
+   http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=~art68
+
+.. [3]
+
+   http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=~art69
