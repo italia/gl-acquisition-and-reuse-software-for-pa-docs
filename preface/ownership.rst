@@ -40,7 +40,7 @@ software modules intended to be integrated with or interfaced with
 proprietary software. In this case, the obligation set forth in
 Article 69 shall apply exclusively to the module or part of the software
 being developed; this module must therefore be separated from the rest
-of the software and released in accordance with the methods specified in
+of the software and released in accordance with the methods specified in :ref:`Developing-software-from-scratch`and and and
 `3.7 Developing software from scratch <#_Toc535583358>`__, taking care
 to specify the required ownership dependency within the documentation.
 
