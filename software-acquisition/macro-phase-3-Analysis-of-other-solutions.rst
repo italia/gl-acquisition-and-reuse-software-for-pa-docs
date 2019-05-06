@@ -114,7 +114,7 @@ Phase 3.2: Analysis of from-scratch solutions
 
 The public administration, after having identified the existence or not
 of a proprietary solution suitable for its requirements, shall prepare a
-document containing a feasibility study [4]_ with an estimate of the
+document containing a feasibility study [1]_ with an estimate of the
 activities, costs and time required for the implementation of a solution
 from scratch that fully meets the requirements indicated in the document
 concerning the analysis of needs, as described in `2.4.1 Phase 1.1:
@@ -196,3 +196,7 @@ the developed code (as explained in `1.5 Ownership <#_Toc535583316>`__),
 so as to enable it to be reused.
 
 **The comparative assessment shall be deemed to be complete.**
+
+.. [1]
+    `Feasibility analysis for the acquisition of ICT
+   supplies <http://www.agid.gov.it/node/881>`__
