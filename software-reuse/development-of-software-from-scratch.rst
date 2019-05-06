@@ -2,7 +2,7 @@ Development of software from scratch
 --------------------------------------
 
 If the administration, following the comparative assessment proposed in
-`Guidelines for acquiring software <#_bookmark8>`__, chooses to
+`2. Guidelines for acquiring software <#_bookmark8>`__, chooses to
 develop software from scratch using internal resources or through
 procurement, it is important to comply with the provisions of
 Article 69, and in particular:
