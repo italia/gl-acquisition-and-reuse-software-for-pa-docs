@@ -40,8 +40,7 @@ software modules intended to be integrated with or interfaced with
 proprietary software. In this case, the obligation set forth in
 Article 69 shall apply exclusively to the module or part of the software
 being developed; this module must therefore be separated from the rest
-of the software and released in accordance with the methods specified in 
-`Developing software from scratch <#_Toc535583358>`__, taking care
+of the software and released in accordance with the methods specified in :ref:`id1`, taking care
 to specify the required ownership dependency within the documentation.
 
 For example, wording such as the following, where present in software
