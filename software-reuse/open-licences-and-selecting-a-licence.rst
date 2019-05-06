@@ -122,7 +122,7 @@ ecosystems that include third-party applications, including proprietary
 software.
 
 -  For software **technical documentation**, use the Creative Commons
-   licence CC-BY 4.0 (SPDX identifier: CC-BY-4.0)
+   licence CC-BY 4.0 (SPDX identifier: ``CC-BY-4.0``)
    https://spdx.org/licenses/CC-BY-4.0.html. This licence was selected
    because it allows for easy reuse of documentation and code examples
    contained therein.
