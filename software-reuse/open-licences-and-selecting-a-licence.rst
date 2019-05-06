@@ -35,13 +35,13 @@ that grants the user of software the following freedoms:
 -  Freedom to redistribute copies of the software;
 
 -  Freedom to modify the software and publicly distribute the modified
-   versions. [5]_
+   versions. [1]_
 
 Access to the source code, or equally to the format necessary to
 reproduce and modify the software, is a prerequisite for respecting
 these freedoms.
 
-Open Source Initiative [6]_ (OSI) is an international organisation,
+Open Source Initiative [2]_ (OSI) is an international organisation,
 recognised worldwide for the certification process of software licences
 that meet these requirements. An updated list of OSI-certified licences
 is available at the following address (in alphabetical order):
@@ -57,7 +57,7 @@ of open software. The process of sending a licence for approval is
 detailed at this link: https://opensource.org/approval.
 
 It should be noted that to uniquely identify licence text, SPDX
-categorisation [7]_ may be used, which associates each licence (or
+categorisation [3]_ may be used, which associates each licence (or
 combination) with a unique identifier and full name. An updated list of
 identifiers and their licence texts is available at this link:
 https://spdx.org/licenses/.
@@ -140,3 +140,13 @@ outlined here must justify their reasons, analysing the compatibility
 between the licenses adopted and those proposed here, ensuring that the
 choice does not limit opportunities for reuse and that it does not
 entail additional costs for administrations in the reuse phase.
+
+.. [1]
+    Stallman, The Free *software* Definition -
+   https://www.gnu.org/philosophy/free-sw.it.html
+
+.. [2]
+    https://www.opensource.org/
+    
+.. [3]
+    `https://spdx.org <https://spdx.org/>`__
