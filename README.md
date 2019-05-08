@@ -1,31 +1,41 @@
-# Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
+# Guidelines on the acquisition and reuse of software for Public Administrations  
 
-Le presenti linee guida attuano quanto stabilito dagli articoli 68 e 69
-del *Codice dell'Amministrazione Digitale* (di seguito CAD):
+These guidelines are adopted in implementing Articles 68 and 69 of the
+*Digital Administration Code* (hereinafter CAD):
 
--  come disposto dall'articolo 68, comma 1 ter, individuano nel capitolo
-   *2. Linee Guida sull'acquisizione di soluzioni software* le modalità
-   e i criteri con i quali un'amministrazione deve effettuare la
-   valutazione comparativa descritta nel medesimo articolo per decidere
-   la modalità di acquisizione di un software.
+-  as provided for in Article 68(1b), the methods and
+   criteria by which an administration must carry out the comparative
+   assessment described in the aforementioned article when selecting a
+   method for acquiring software.
 
--  come statuito dall'articolo 69, comma 2bis, individuano nel capitolo
-   *3. Linee Guida sul riuso del Software (art. 69)* la piattaforma per
-   la pubblicazione di codice sorgente sotto licenza aperta e
-   documentazione del software messo a riuso dalle amministrazioni,
-   indicando anche le modalità tecniche di utilizzo.
+-  as provided for in Article 69(2a), identifying in Chapter, the
+   platform for the publication of source code under open licence and
+   software documentation available for reuse by administrations,
+   specifying the technical methods for use.
 
-Inoltre sostituiscono la precedente circolare 63/2013, intitolata
-"*Linee guida per la valutazione comparativa prevista dall'art. 68 del
-D.Lgs. 7 marzo 2005, n. 82 Codice dell'Amministrazione digitale*" e
-relativi allegati.
+They also replace the previous Circular 63/2013, entitled *‘Guidelines
+for comparative assessment provided for by Article 68 of Legislative
+Decree No 82 of 7 March 2005, the Digital Administration Code’* and its
+annexes.
 
 ## Link
 
-* Le linee guida sono consultabili su Docs Italia all'indirizzo [https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/)
-* La piattaforma individuata dalle linee guida ai sensi dell'articolo 69 è [Developers Italia](https://developers.italia.it/), dove è ospitato il catalogo delle soluzioni a riuso e dove è possibile reperire maggiori informazioni sulla procedura tecnica per rilasciare il software.
-* Per la discussione è attiva [un'apposita sezione in Forum Italia](https://forum.italia.it/c/software-open-source-per-la-pa).
+* The guidelines are available on Docs Italia at this
+  [link](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs-en/it/master/)
+* The platform identified from the guidelines following the art. 69 is
+  [Developers Italia](https://developers.italia.it/), where the software reuse
+  catalog is hosted and where it is possible to access further information
+  regarding the technical procedures needed in order to release the software
+* For what concerns the discussion, a [Forum Italia section](https://forum.italia.it/c/software-open-source-per-la-pa) is
+  available (in Italian language)
 
-## Policy per issue e pull request
+## Issue and pull request policy
 
-Eventuali proposte di modifica o segnalazioni possono essere aperte come issue o pull request in questo repository, tuttavia dal momento che l'iter istituzionale di aggiornamento delle linee guida è normato dall'[art. 71](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html) del Codice dell'Amministrazione Digitale tali issue verranno intenzionalmente lasciate aperte in attesa del prossimo lavoro di revisione del testo. Fanno eccezione a questo criterio le eventuali pull request relative a refusi o correzioni di formattazione che verranno invece prese in considerazione per il merge senza attendere l'iter di revisione.
+Possible changes or reports can be opened in the form of issues or pull
+requests in this repository. However, since the institutional process regarding
+the update of the guidelines is not regulated from the [art. 71](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html)
+of the Digital Administration Code, such issues will be intentionally left open
+in order to wait the next review of the working group. Such a criteria will not
+be used for pull requests related to typos or layout changes which will be
+taken into consideration for merging without the need to wait for the revision
+process.
