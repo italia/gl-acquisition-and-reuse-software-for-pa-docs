@@ -407,7 +407,7 @@ contains web applications, a file formatted according to the
 instructions found at
 `https://securitytxt.org <https://securitytxt.org/>`__ SHOULD be
 accessible for each installation at the following pathway -
-https://<hostname>/.well-known/security.txt. This file is aimed at
+``https://<hostname>/.well-known/security.txt``. This file is aimed at
 providing useful information to those who detect vulnerabilities and
 intend to send security reports.
 
