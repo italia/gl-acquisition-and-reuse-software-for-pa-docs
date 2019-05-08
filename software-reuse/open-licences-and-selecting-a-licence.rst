@@ -92,7 +92,7 @@ selecting an open licence:
    same software;
 
 -  If it is **new software**, apart from the exceptions specified below,
-   use the EUPL v1.2 licence (SPDX identifier: EUPL-1.2):
+   use the EUPL v1.2 licence (SPDX identifier: ``EUPL-1.2``):
    https://spdx.org/licenses/EUPL-1.2.html. This licence, developed by
    the European Commission, has been selected as a 'copyleft' licence,
    guaranteeing maximum interoperability at European level, and has also
@@ -101,7 +101,7 @@ selecting an open licence:
 
    -  if **the software is mainly used online (e.g. via a browser)**,
       use the 'GNU Affero General Public Licence' version 3 or above
-      (SPDX identifier: AGPL-3.0-or-later):
+      (SPDX identifier: ``AGPL-3.0-or-later``):
       https://spdx.org/licenses/AGPL-3.0-or-later.html;
 
 This licence was chosen because, in addition to being compatible with
@@ -110,7 +110,7 @@ release improvements even if it is used as part of a SaaS service.
 
 -  if **software components** with a wide range of applications (e.g.
    '**software libraries**' and '**SDKs**') are being released, use the
-   'BSD 3-Clause' licence (SPDX identifier: BSD-3-Clause)
+   'BSD 3-Clause' licence (SPDX identifier: ``BSD-3-Clause``)
    https://spdx.org/licenses/BSD-3-Clause.html;
 
 This licence has been chosen to ensure that all stakeholders use it as
