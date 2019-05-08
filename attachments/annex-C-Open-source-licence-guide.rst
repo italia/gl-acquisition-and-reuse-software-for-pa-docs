@@ -37,7 +37,7 @@ complications associated with operating under various and different
 licences with the potential conflicting provisions that this entails.
 
 The most popular licence in this area is the Creative Commons Zero (SPDX
-Code: CC0-1.0).
+Code: ``CC0-1.0``).
 
 Non-copyleft licences
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
