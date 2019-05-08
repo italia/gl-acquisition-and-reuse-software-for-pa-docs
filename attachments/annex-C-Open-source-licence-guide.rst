@@ -62,11 +62,11 @@ reference to obtain a copy of the original source code.
 Examples of these licences are the BSD licence, the MIT licence and the
 Apache licence - SPDX identifiers:
 
-BSD-3-Clause, MIT and Apache-2.0.
+``BSD-3-Clause``, ``MIT`` and ``Apache-2.0``.
 
 **Note:** use of the Apache licence is not recommended as it is
 incompatible with the GNU GPL version 2 (SPDX identifier:
-GPL-2.0-or-later).
+``GPL-2.0-or-later``).
 
 Copyleft licences
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -88,9 +88,9 @@ This type of licence is recommended for all complete software
 applications.
 
 The most widely used licence in this area is the GNU GPL (SPDX
-identifier: GPL-3.0-or-later) or the GNU AGPL, its modification that
+identifier: ``GPL-3.0-or-later``) or the GNU AGPL, its modification that
 also covers the scope of software distributed online (SPDX identifier:
-AGPL-3.0-or-later).
+``AGPL-3.0-or-later``).
 
 Copyleft licences - for libraries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -112,12 +112,12 @@ software. This clause can be problematic and unsatisfactory in some
 embedded environments, such as iOS.
 
 The most used version is the GNU LGPL (SPDX identifier:
-LGPL-3.0-or-later), modified version of the GNU GPL licence.
+``LGPL-3.0-or-later``), modified version of the GNU GPL licence.
 
 Licences not included in the newly introduced classification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   -  The Mozilla Public Licence (SPDX identifier: MPL-2.0) is a
+   -  The Mozilla Public Licence (SPDX identifier: ``MPL-2.0``) is a
       copyleft licence, comparable to the GNU GPL licence, which
       guarantees free distribution of the code but dictates that it may
       not be reused, if required, for modifications, logos, names or
@@ -128,7 +128,7 @@ Licences not included in the newly introduced classification
       licence, developed by the European Commission, and officially
       translated into all EU languages. This licence includes a
       compatibility table with some of the most common open licences.
-      SPDX identifier: EUPL-1.2.
+      SPDX identifier: ``EUPL-1.2``.
 
 Creative Commons licences
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -140,13 +140,13 @@ software, but only other original works (e.g. documentation or text).
 The only Creative Commons licences that can be considered as open
 licences, as described in 3.3, are:
 
--  Creative Commons Zero - public domain (SPDX identifier: CC0-1.0).
+-  Creative Commons Zero - public domain (SPDX identifier: ``CC0-1.0``).
 
 -  Creative Commons Attribution (version 4 or above) - a non-copyleft
-   licence (SPDX identifier: CC-BY-4.0)
+   licence (SPDX identifier: ``CC-BY-4.0``)
 
 -  Creative Commons Attribution-Share Alike (version 4 or above) - a
-   copyleft licence (SPDX identifier: CC-BY-SA-4.0)
+   copyleft licence (SPDX identifier: ``CC-BY-SA-4.0)
 
 Licence applicable to software documentation and attachments
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
